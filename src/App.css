@@ -1,6 +1,19 @@
 #root {
   margin: 16px;
+  background-color: #1b436b;
+  color: #ecf0f1;
+  font-family: 'Arial', sans-serif;
 }
+
+body {
+  background-color: #1b436b;
+  color: #ecf0f1;
+  border-color: #385b7e;
+  
+
+}
+
+
 
 ul {
   display: flex;
